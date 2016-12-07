@@ -1,6 +1,6 @@
 DISTS="trusty xenial yakkety"
 #cp debian-src/* debian
-RELEASE=1.2
+RELEASE=1.3
 git clone . ../qlshw-$RELEASE
 cd ..
 cd qlshw-$RELEASE
