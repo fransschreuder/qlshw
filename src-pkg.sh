@@ -1,12 +1,12 @@
 DISTS="trusty xenial yakkety"
 #cp debian-src/* debian
-RELEASE=1.1
+RELEASE=1.2
 git clone . ../qlshw-$RELEASE
 cd ..
 cd qlshw-$RELEASE
 rm -rf .git
 cd ..
-tar -zcvf qlshw-$RELEASE.orig.tar.gz qlshw-$RELEASE
+tar -zcvf qlshw_$RELEASE.orig.tar.gz qlshw-$RELEASE
 cd qlshw-$RELEASE
 COUNT=0
 for DIST in ${DISTS} ; do
