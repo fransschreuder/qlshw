@@ -1,5 +1,5 @@
 Source: qlshw
-Section: unknown
+Section: misc
 Priority: optional
 Maintainer: Frans Schreuder <info@schreuderelectronics.com>
 Build-Depends: debhelper (>=9)
