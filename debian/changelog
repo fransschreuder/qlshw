@@ -1,0 +1,5 @@
+qlshw (1.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Frans Schreuder <info@schreuderelectronics.com>  Wed, 07 Dec 2016 10:35:27 +0100
