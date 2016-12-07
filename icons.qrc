@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/stock_usb.svg</file>
+        <file>icons/cpu.svg</file>
+        <file>icons/motherboard.svg</file>
+        <file>icons/network.svg</file>
+        <file>icons/pcie.svg</file>
+    </qresource>
+</RCC>
