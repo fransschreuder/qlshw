@@ -27,3 +27,20 @@ FORMS    += qlshw.ui
 
 RESOURCES += \
     icons.qrc
+
+#isEmpty(PREFIX) {
+# PREFIX = /usr/local
+#}
+#
+#DESK.files = qlshw.desktop
+#DESK.path = $${PREFIX}/share/applications
+#
+#ICO.files = qlshw.svg
+#ICO.path = $${PREFIX}/share/pixmaps
+#
+#TARGET.path = $${PREFIX}/bin
+#
+#INSTALLS += TARGET
+#INSTALLS += ICO
+#INSTALLS += DESK
+

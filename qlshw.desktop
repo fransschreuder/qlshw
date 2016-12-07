@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=qlshw
+Comment=GUI to show hardware using lshw in a Tree View
+Exec=qlshw
+Icon=qlshw.svg
+Terminal=false
+
+Type=Application
+Categories=System
+StartupNotify=false
