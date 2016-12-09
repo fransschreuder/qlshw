@@ -22,6 +22,10 @@ private slots:
 
     void on_actionCopy_triggered();
 
+    void on_actionRun_as_Superuser_triggered();
+
+    void on_actionAbout_qlshw_triggered();
+
 private:
     Ui::MainWindow *ui;
     void updateTree(void);
