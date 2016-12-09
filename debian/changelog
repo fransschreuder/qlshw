@@ -1,3 +1,60 @@
+qlshw (1.4-3) yakkety; urgency=medium
+
+  * Added dutch translation
+  * added about dialog
+  * automatically refresh after changing to superuser
+
+ -- Frans Schreuder <info@schreuderelectronics.com>  Fri, 09 Dec 2016 11:09:13 +0100
+
+qlshw (1.4-2) xenial; urgency=medium
+
+  * Added dutch translation
+  * added about dialog
+  * automatically refresh after changing to superuser
+
+ -- Frans Schreuder <info@schreuderelectronics.com>  Fri, 09 Dec 2016 11:09:00 +0100
+
+qlshw (1.4-1) trusty; urgency=medium
+
+  * Added dutch translation
+  * added about dialog
+  * automatically refresh after changing to superuser
+
+qlshw (1.3-3) yakkety; urgency=medium
+
+  * Added build dependencies
+
+ -- Frans Schreuder <info@schreuderelectronics.com>  Wed, 07 Dec 2016 14:54:27 +0100
+
+qlshw (1.3-2) xenial; urgency=medium
+
+  * Added build dependencies
+
+ -- Frans Schreuder <info@schreuderelectronics.com>  Wed, 07 Dec 2016 14:54:19 +0100
+
+qlshw (1.3-1) trusty; urgency=medium
+
+  * Added build dependencies
+
+ -- Frans Schreuder <info@schreuderelectronics.com>  Wed, 07 Dec 2016 14:54:08 +0100
+qlshw (1.2-3) yakkety; urgency=medium
+
+  * Fixed release script
+
+ -- Frans Schreuder <info@schreuderelectronics.com>  Wed, 07 Dec 2016 14:47:59 +0100
+
+qlshw (1.2-2) xenial; urgency=medium
+
+  * Fixed release script
+
+ -- Frans Schreuder <info@schreuderelectronics.com>  Wed, 07 Dec 2016 14:47:50 +0100
+
+qlshw (1.2-1) trusty; urgency=medium
+
+  * Fixed release script
+
+ -- Frans Schreuder <info@schreuderelectronics.com>  Wed, 07 Dec 2016 14:47:34 +0100
+
 qlshw (1.1-3) yakkety; urgency=medium
 
   * Fixed debian/control section
